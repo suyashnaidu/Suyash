@@ -1,7 +1,10 @@
 main()
 {add()
 {
-print("addition")
+print("addition");
   }
-sub();
+sub()
+{
+  print("Substraction");
+}
 }
