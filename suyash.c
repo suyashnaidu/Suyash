@@ -12,4 +12,8 @@ sub()
 {
   print("multiplication")
     }
+  div()
+{
+print("division")
+}
 }
