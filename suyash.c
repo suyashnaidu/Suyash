@@ -1,7 +1,8 @@
 main()
-{add()
 {
-print("addition")
+add()
+{
+print("addition");
   }
-sub();
+sub()
 }
