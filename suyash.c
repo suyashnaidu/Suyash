@@ -10,10 +10,11 @@ sub()
 }
   mul()
 {
-  print("multiplication")
+  print("multiplication");
     }
   div()
 {
-print("division")
+print("division");
 }
+  printf("new")
 }
