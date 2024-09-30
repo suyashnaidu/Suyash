@@ -1,5 +1,6 @@
 main()
-{add()
+{
+add()
 {
 print("addition");
   }
@@ -7,4 +8,8 @@ sub()
 {
   print("Substraction");
 }
+  mul()
+{
+  print("multiplication")
+    }
 }
