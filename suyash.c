@@ -18,3 +18,7 @@ print("division");
 }
   printf("new")
 }
+{
+print("*****");
+print("putting to local");
+}
